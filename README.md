@@ -1,4 +1,4 @@
-my_app
-======
+simple_rails_app
+================
 
-Simple app for gocardless
+Simple Rails App
